@@ -1,0 +1,25 @@
+li {
+  list-style: none;
+  padding: 5px;
+}
+.faq-item {
+  display: flex;
+  flex-direction: row;
+}
+.faq-question {
+  border: 3px solid #c4c4c4;
+  border-radius: 1em;
+  width: 90%;
+  padding: 10px;
+  margin: 10px;
+}
+
+.faq-answer {
+  margin-top: 5px;
+  padding-top: 5px;
+  border-top: 1px solid #cccccc;
+}
+
+img {
+  cursor: pointer;
+}
